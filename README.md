@@ -1,4 +1,4 @@
-# Data Transmission Using LED Ligh 
+# Data Transmission Using LED Light 
 
 ## INTRODUCTION
 
